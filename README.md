@@ -59,8 +59,10 @@ getch();
 return(0); 
 }
 ````
-**Output :**
+### Output :**
+
 ![437690382-b6a93997-d0b8-4df8-8acf-873ef01873eb](https://github.com/user-attachments/assets/0d43e870-2c4f-4bd6-9eeb-355e414bdca0)
 
-**Result:**
+### Result:**
+
 Thus the DDA algorithm to draw a line using a c coding is implemented successfully.
